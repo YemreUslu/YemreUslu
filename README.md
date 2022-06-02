@@ -1,6 +1,6 @@
 ### Hi there  Welcome to my Githup page
 
-Hello. I'm Emre. I am a graduate of Akdeniz University Space Sciences and Technologies. 
+Hello. I'm Emre. I graduated from Bilecik University Programming Department. 
 I am currently developing myself in the field of software.
 
 
@@ -9,8 +9,8 @@ I am currently developing myself in the field of software.
 -  You can reach me from the links below
 
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oguzhan-kutucu/) 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/o.kutucu/) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]() 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]() 
 
 
 ### Languages and Tools:
