@@ -14,9 +14,7 @@ I am currently developing myself in the field of software.
 
 ### Languages and Tools:
 
-<img align="left" alt="sass" width="36px" src="https://github.com/okutucu/okutucu/blob/main/288_Sass-512.webp" style="padding-right:10px;">
-<img align="left" alt="js" width="36px" src="https://github.com/okutucu/okutucu/blob/main/61b813455c729b5a4574888b_js%20logo.png" style="padding-right:10px;">
+<img align="left" alt="sass" width="36px" src="https://banner2.cleanpng.com/20180711/luz/kisspng-sass-style-sheet-language-cascading-style-sheets-l-sass-5b462192244b94.2444958315313227701487.jpg" style="padding-right:10px;">
+<img align="left" alt="js" width="36px" src="https://toppng.com/uploads/preview/javascript-logo-number-angularjs-node-javascript-logo-11563241338go76tq0nxz.png" style="padding-right:10px;">
 <img align="left" alt="html5" width="36px" src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png" style="padding-right:10px;">
-<img align="left" alt="dotNetCore" width="36px" src="https://github.com/okutucu/okutucu/blob/main/NET_Core_Logo.svg.png" style="padding-right:10px;">
-<img align="left" alt="csharp" width="36px" src="https://github.com/okutucu/okutucu/blob/main/csharp_original_logo_icon_146578.png" style="padding-right:10px;">
-<img align="left" alt="sql" width="36px" src="https://github.com/okutucu/okutucu/blob/main/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" style="padding-right:10px;">
+
