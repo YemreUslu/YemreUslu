@@ -15,6 +15,6 @@ I am currently developing myself in the field of software.
 ### Languages and Tools:
 
 <img align="left" alt="sass" width="36px" height="36px" src="https://thumbnail.imgbin.com/4/16/4/imgbin-sass-cascading-style-sheets-preprocessor-less-postcss-meng-uwgxZ0nWdzVLrKB6BCTaPGfLc_t.jpg" style="padding-right:10px;">
-<img align="left" alt="js" width="36px" height="36px" src="https://flyclipart.com/thumb2/logo-javascript-png-transparent-logo-javascript-images-892775.png" style="padding-right:10px;">
+<img align="left" alt="js" width="36px" height="36px" src="https://mpng.subpng.com/20180411/cvq/kisspng-javascript-html-computer-software-web-browser-watermark-5acdbd54ac19f7.4484983215234327887049.jpg" style="padding-right:10px;">
 <img align="left" alt="html5" width="36px" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" style="padding-right:10px;">
 
